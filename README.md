@@ -10,8 +10,6 @@ To analyse the data provided and extract meaningful insights from the HR databas
 ## Data Overview
 The HR database contains information about employees, their roles, job histories, departments, salaries, and locations.
 
-![hr-sql-queries-screeshot](hr-sql-queries-screeshot.png)
-
 ## Key Findings
 - Some departments employ significantly more staff. Workers seems to be more needed in some departments than the others.
 - Senior employees at the executive or technical specialists earn above average, while others earn considerably less than average salaries.
@@ -21,8 +19,6 @@ understanding between both parties.
 ## Link To sql hr-data queries
 Click this link to explore the sql hr-data queries[Click here]
 ## https://github.com/EuniceTubbenthal/sql-hr-project-analysis/blob/main/eunice-tubbenthal-sql-project.sql 
-
-![eunice-tubbenthal-sql-project](eunice-tubbenthal-sql-project)
 
 ## Recommendations
 - Management should evaluate job performances and ensure fair compensation practices across similar job titles and departments.
