@@ -19,7 +19,8 @@ The HR database contains information about employees, their roles, job histories
 understanding between both parties.
 
 ## Link To sql hr-data queries
-Click this link to explore the sql hr-data queries[Click here](## https://github.com/EuniceTubbenthal/sql-hr-project-analysis/blob/main/eunice-tubbenthal-sql-project.sql) 
+Click this link to explore the sql hr-data queries[Click here]
+## https://github.com/EuniceTubbenthal/sql-hr-project-analysis/blob/main/eunice-tubbenthal-sql-project.sql 
 
 ![eunice-tubbenthal-sql-project](eunice-tubbenthal-sql-project)
 
