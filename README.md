@@ -18,6 +18,10 @@ The HR database contains information about employees, their roles, job histories
 - Several employees have been with the company for more than 5 years. This shows a good working relationship, mutual benefits and 
 understanding between both parties.
 
+## Link To Trendora Shopping Report
+Click this link to explore the sql hr-data queries[Click here](## Link To Trendora Shopping Report
+Click this link to explore the trendora shopping excel report[Click here](https://1drv.ms/x/c/9041d4409b5e9228/EWNgNrtRycdNs9Zwul8coDsBBUbX01eWafBqTZVYoVStfw?e=EGVNop)
+
 ![eunice-tubbenthal-sql-project](eunice-tubbenthal-sql-project)
 
 ## Recommendations
