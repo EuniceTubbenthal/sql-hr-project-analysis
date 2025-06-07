@@ -1,6 +1,6 @@
 # sql-hr-project-analysis
-# sql-hr-analysis
 ![header-hr-sql-analysis](header-hr-sql-analysis.png)
+
 ## Business Context
 The management of this multinational corporation wants to gain insights into its employees, departments, job history, salaries and locations.
 
